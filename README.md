@@ -35,5 +35,5 @@ func inner() error {
 ## Output
 
 ```
-ERRO[0000] something went wrong                          func="inner,outer,main"
+ERRO[0000] something went wrong  func="inner,outer,main"
 ```
